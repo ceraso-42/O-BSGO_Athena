@@ -18,7 +18,7 @@ Athena is intended to be a FOSS codebase for a server intending to run a modifie
 - TBD
 
 ## Credits
-- <a href="https://github.com/victti">victti</a> for the <a href="https://github.com/victti/OpenBSGO" target="_blank">OpenBSGO</a> and its predecessor, <a href="https://github.com/victti/BSGO-Private-Server" target="_blank">BSGO Private Server</a>
+- <a href="https://github.com/victti">victti</a> for <a href="https://github.com/victti/OpenBSGO" target="_blank">OpenBSGO</a> and its predecessor, <a href="https://github.com/victti/BSGO-Private-Server" target="_blank">BSGO Private Server</a>
 - <a href="https://github.com/JakubNei">aeroson</a> (For the implementation of UnityEngine.Quaternion).
 - bubisnew.
 - Mementomori (aka FLOREK BGO).
